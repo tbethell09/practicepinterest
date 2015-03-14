@@ -1,5 +1,15 @@
-$navbar-default-bg: #34495e;  //color is "wet asphalt" 
+$navbar-default-bg:         #34495e;  //color is "wet asphalt" 
 $navbar-default-link-color: #FFFFFF;
-$brand-primary: #66FF66;
+$brand-primary:             #66FF66;
+$navbar-height:             45px;
 
 @import 'bootstrap';
+
+
+.center {
+    text-align: center;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
