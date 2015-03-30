@@ -77,7 +77,7 @@ Rails.application.configure do
   config.active_record.dump_schema_after_migration = false
   
   #required for heroku
-  config.action_mailer.default_url_options = { host: 'omr-sporterest.com'}
+  config.action_mailer.default_url_options = { host: 'omr-draftopedia.com'}
   
   
       #sets paperclip to uplaod images to aws s3
